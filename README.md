@@ -13,3 +13,6 @@ Python学習のアウトプットとして作成しました。
 ## 使用技術
 Python  
 openpyxl
+
+## Qiita解説
+https://qiita.com/waratteas0714/items/fdd4c22d8e1664ee86c3
