@@ -1,0 +1,2 @@
+# Python-expense-automation
+勤務表Excelから交通費明細書を自動生成するPythonスクリプト
